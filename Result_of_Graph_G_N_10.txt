@@ -1,0 +1,13 @@
+Total number of nodes = 10
+Total number of edges in the minimum spanning three = 9
+List of edges & their costs:
+(6,9)   edge cost: 214
+(1,9)   edge cost: 229
+(3,7)   edge cost: 229
+(0,5)   edge cost: 232
+(2,4)   edge cost: 236
+(2,8)   edge cost: 236
+(3,8)   edge cost: 237
+(1,5)   edge cost: 246
+(0,4)   edge cost: 265
+Total cost of minimum spanning three is= Sum of (214+229+229+232+236+236+237+246+265+)=2124
